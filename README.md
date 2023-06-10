@@ -9,4 +9,3 @@ The website in this project is also Responsive, it means it can run on any brows
 
 This project includes 2 main tables 'customer' and 'transaction' which contain their respective details.
 
-I also have included all the images used in this project.
